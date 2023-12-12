@@ -28,7 +28,7 @@ Finally `Analize_Results_model.py` contains the codes for predictions on each mo
 
 ## Citing BIMCV-SAM-UNETR
 
-BIMCV-SAM-UNETR is research software, made by a team of UMIB-FISABIO Team researchers. Citations and use of our software help us justify the effort which has gone into, and will keep going into, maintaining and growing this project.
+BIMCV-SAM-UNETR is research software, made by a team of UMIB-FISABIO researchers. Citations and use of our software help us justify the effort which has gone into, and will keep going into, maintaining and growing this project.
 If you have used BIMCV-SAM-UNETR in your research, please consider citing us:
 
 Or with BibTex:
