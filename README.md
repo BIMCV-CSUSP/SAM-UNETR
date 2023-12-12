@@ -37,7 +37,7 @@ Or with BibTex:
 ```bibtex
 @article{alzate2023sam,
   title={SAM-UNETR: Clinically Significant Prostate Cancer Segmentation Using Transfer Learning From Large Model},
-  author={Alzate-Grisales, Jesus Alejandro and Mora-Rubio, Alejandro and Garc{\'\i}a-Garc{\'\i}a, Francisco and Tabares-Soto, Reinel and De La Iglesia-Vaya, Maria},
+  author={Alzate-Grisales, Jesus Alejandro and Mora-Rubio, Alejandro and Garcia-Garcia, Francisco and Tabares-Soto, Reinel and De La Iglesia-Vaya, Maria},
   journal={IEEE Access},
   volume={11},
   pages={118217--118228},
