@@ -31,7 +31,9 @@ Finally `Analize_Results_model.py` contains the codes for predictions on each mo
 BIMCV-SAM-UNETR is research software, made by a team of UMIB-FISABIO researchers. Citations and use of our software help us justify the effort which has gone into, and will keep going into, maintaining and growing this project.
 If you have used BIMCV-SAM-UNETR in your research, please consider citing us:
 
-Alzate-Grisales, J. A., Mora-Rubio, A., García-García, F., Tabares-Soto, R., & De La Iglesia-Vayá, M. (2023). SAM-UNETR: Clinically Significant Prostate Cancer Segmentation Using Transfer Learning From Large Model. IEEE Access, 11, 118217-118228. https://ieeexplore.ieee.org/abstract/document/10292632
+> Alzate-Grisales, J. A., Mora-Rubio, A., García-García, F., Tabares-Soto, R., & De La Iglesia-Vayá, M. (2023). SAM-UNETR: Clinically Significant Prostate Cancer Segmentation Using Transfer Learning From Large Model.
+> _IEEE Access_, 11, 118217-118228.
+> https://ieeexplore.ieee.org/abstract/document/10292632
 
 Or with BibTex:
 ```bibtex
