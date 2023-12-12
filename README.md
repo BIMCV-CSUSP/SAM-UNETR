@@ -34,7 +34,7 @@ If you have used BIMCV-SAM-UNETR in your research, please consider citing us:
 Alzate-Grisales, J. A., Mora-Rubio, A., García-García, F., Tabares-Soto, R., & De La Iglesia-Vayá, M. (2023). SAM-UNETR: Clinically Significant Prostate Cancer Segmentation Using Transfer Learning From Large Model. IEEE Access, 11, 118217-118228. https://ieeexplore.ieee.org/abstract/document/10292632
 
 Or with BibTex:
-```javascript
+```bibtex
 @article{alzate2023sam,
   title={SAM-UNETR: Clinically Significant Prostate Cancer Segmentation Using Transfer Learning From Large Model},
   author={Alzate-Grisales, Jesus Alejandro and Mora-Rubio, Alejandro and Garc{\'\i}a-Garc{\'\i}a, Francisco and Tabares-Soto, Reinel and De La Iglesia-Vaya, Maria},
@@ -44,4 +44,4 @@ Or with BibTex:
   year={2023},
   publisher={IEEE}
 }
-'''
+```
