@@ -25,3 +25,11 @@ SAM-UNETR achieved good results on the Clinically Significant Prostate Cancer Se
 
 To use SAM-UNETR first run [Extract_SAM_encoder_weigths.ipynb](Extract_SAM_encoder_weigths.ipynb) to save the weights of the image encoder, then run  requires `Train_model.py`  file that you want to use.
 Finally `Analize_Results_model.py` contains the codes for predictions on each model
+
+## Citing BIMCV-SAM-UNETR
+
+BIMCV-SAM-UNETR is research software, made by a team of UMIB-FISABIO Team researchers. Citations and use of our software help us justify the effort which has gone into, and will keep going into, maintaining and growing this project.
+If you have used BIMCV-SAM-UNETR in your research, please consider citing us:
+
+Or with BibTex:
+
