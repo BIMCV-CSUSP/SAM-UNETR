@@ -13,7 +13,7 @@ SAM-UNETR is designed to leverage the strengths of both SAM and UNETR to achieve
 ![SAM-UNETR](images/SAMUNETR.png)
 ## Dataset
 
-To train and evaluate SAM-UNETR, a dataset of clinically significant prostate cancer images was used. The dataset consists of high-resolution MRI scans along with corresponding ground truth segmentation masks from [PI-CAI Challenge](https://github.com/facebookresearch/segment-anything) and [Prostate158](https://github.com/kbressem/prostate158).
+To train and evaluate SAM-UNETR, a dataset of clinically significant prostate cancer images was used. The dataset consists of high-resolution MRI scans along with corresponding ground truth segmentation masks from [PI-CAI Challenge](https://pi-cai.grand-challenge.org/) and [Prostate158](https://github.com/kbressem/prostate158).
 
 ## Results
 
